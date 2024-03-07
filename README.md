@@ -65,3 +65,5 @@ A beginner-friendly introduction to common data structures (linked lists, stacks
 ## Instructor - Aakash N S
 
 Aakash N S is the co-founder and CEO of Jovian. Previously, Aakash has worked as a software engineer (APIs & Data Platforms) at Twitter in Ireland & San Francisco and graduated from the Indian Institute of Technology, Bombay. He’s also an avid blogger, open-source contributor, and online educator.
+
+[Data Structures and Algorithms in Python](https://jovian.com/learn/data-structures-and-algorithms-in-python)
